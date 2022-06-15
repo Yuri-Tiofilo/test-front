@@ -1,0 +1,5 @@
+Routeamento - React Router Dom
+
+Guias de estilo - Eslint, prettier, Editor config, Husky(já veio instalado), git-cz, commitlint
+
+Estilização de componentes - Styled-components
